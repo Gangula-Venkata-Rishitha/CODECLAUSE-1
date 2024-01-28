@@ -1,1 +1,1 @@
-# CODECLAUSE-1
+This Python script is a simple password generator. It prompts the user to specify the number of letters, numbers, and symbols they want in their password, and then generates a random password based on those criteria.
